@@ -201,19 +201,19 @@ About page
 #statue-img {
   background: url("assets/statue.jpeg") no-repeat center;
   background-size: cover;
-  padding-top: 100%;
+  padding-top: 75%;
 }
 
 #mandarin-img {
   background: url("assets/mandarin.jpeg") no-repeat center;
   background-size: cover;
-  padding-top: 100%;
+  padding-top: 75%;
 }
 
 #diver-img {
   background: url("assets/diver.jpeg") no-repeat center;
   background-size: cover;
-  padding-top: 100%;
+  padding-top: 75%;
 }
 
 /*********************************************************************** 
