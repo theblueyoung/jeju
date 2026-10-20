@@ -201,22 +201,31 @@ About page
 #statue-img {
   background: url("assets/statue.jpeg") no-repeat center;
   background-size: cover;
+  background-position: center;
   aspect-ratio: 4 / 3;
   padding-top: 0;
+  height: auto;
+  min-height: 0;
 }
 
 #mandarin-img {
   background: url("assets/mandarin.jpeg") no-repeat center;
   background-size: cover;
+  background-position: center;
   aspect-ratio: 4 / 3;
   padding-top: 0;
+  height: auto;
+  min-height: 0;
 }
 
 #diver-img {
   background: url("assets/diver.jpeg") no-repeat center;
   background-size: cover;
+  background-position: center;
   aspect-ratio: 4 / 3;
   padding-top: 0;
+  height: auto;
+  min-height: 0;
 }
 
 /*********************************************************************** 
@@ -233,29 +242,41 @@ Things to do page
 #halla-img {
   background: url("assets/halla.jpeg") no-repeat center;
   background-size: cover;
+  background-position: center;
   aspect-ratio: 16 / 9;
   padding-top: 0;
+  height: auto;
+  min-height: 0;
 }
 
 #sungsan-img {
   background: url("assets/sungsan.jpeg") no-repeat center;
   background-size: cover;
+  background-position: center;
   aspect-ratio: 16 / 9;
   padding-top: 0;
+  height: auto;
+  min-height: 0;
 }
 
 #jusangjeolli-img {
   background: url("assets/cliff.png") no-repeat center;
   background-size: cover;
+  background-position: center;
   aspect-ratio: 16 / 9;
   padding-top: 0;
+  height: auto;
+  min-height: 0;
 }
 
 #haenyeo-img {
   background: url("assets/haenyeo.png") no-repeat center;
   background-size: cover;
+  background-position: center;
   aspect-ratio: 16 / 9;
   padding-top: 0;
+  height: auto;
+  min-height: 0;
 }
 
 /*********************************************************************** 
