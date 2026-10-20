@@ -550,3 +550,21 @@ footer {
   font-weight: bold;
   margin: 0 5px;
 }
+
+/* Reduce About Jeju section containers */
+body:has(#story-of-jeju) .about-jeju-item {
+  width: 44%;
+  padding: 12px;
+  gap: 12px;
+}
+
+body:has(#story-of-jeju) .about-jeju-item-text,
+body:has(#story-of-jeju) .about-jeju-item-text p {
+  margin-top: 12px;
+}
+
+@media (max-width: 767px) {
+  body:has(#story-of-jeju) .about-jeju-item {
+    width: 90%;
+  }
+}
