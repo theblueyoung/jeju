@@ -226,34 +226,36 @@ Things to do page
 .hero#experience-and-explore {
   background: url("assets/experience-and-explore.png") no-repeat center;
   background-size: cover;
+  height: 80vh;
+  min-height: 600px;
 }
 
 #halla-img {
   background: url("assets/halla.jpeg") no-repeat center;
   background-size: cover;
-    aspect-ratio: 16 / 9;
-  padding-top: 0;
+  background-size: cover;
+  padding-top: 56.25%;
 }
 
 #sungsan-img {
   background: url("assets/sungsan.jpeg") no-repeat center;
   background-size: cover;
-    aspect-ratio: 16 / 9;
-  padding-top: 0;
+  background-size: cover;
+  padding-top: 56.25%;
 }
 
 #jusangjeolli-img {
   background: url("assets/cliff.png") no-repeat center;
   background-size: cover;
-    aspect-ratio: 16 / 9;
-  padding-top: 0;
+  background-size: cover;
+  padding-top: 56.25%;
 }
 
 #haenyeo-img {
   background: url("assets/haenyeo.png") no-repeat center;
   background-size: cover;
-    aspect-ratio: 16 / 9;
-  padding-top: 0;
+  background-size: cover;
+  padding-top: 56.25%;
 }
 
 /*********************************************************************** 
