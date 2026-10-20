@@ -550,26 +550,3 @@ footer {
   font-weight: bold;
   margin: 0 5px;
 }
-
-
-/* Reduce About Jeju section containers */
-body:has(#story-of-jeju) .about-jeju-item {
-  width: 60%;
-  padding: 12px;
-  gap: 12px;
-  align-items: flex-start;
-}
-
-body:has(#story-of-jeju) .about-jeju-item-text {
-  margin-top: 0;
-}
-
-body:has(#story-of-jeju) .about-jeju-item-text p {
-  margin-top: 12px;
-}
-
-@media (max-width: 767px) {
-  body:has(#story-of-jeju) .about-jeju-item {
-    width: 90%;
-  }
-}
